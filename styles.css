@@ -29,9 +29,7 @@ img{
 }
 .post-icons{
     display: flex;
-}
-.html5rigoberto{
-    display: flexbox;
+    justify-content: space-between;
 }
 .post-body{
     display: flexbox;
@@ -40,10 +38,16 @@ img{
 .fa-solid fa-ellipsis-vertical {
     justify-content: end;
 }
-.izquierda{
-    display: flex;
-    justify-content: start;
-}
 .fa-solid fa-bookmark{
     justify-content: end;
+}
+.iconoperfil{
+    font-size: 25px;
+    display: flex;
+}
+.izquierda{
+    display: flex;
+}
+.name{
+    font-size: 15px;
 }
