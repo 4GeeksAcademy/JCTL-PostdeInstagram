@@ -37,3 +37,13 @@ img{
     display: flexbox;
     text-align: justify;
 }
+.fa-solid fa-ellipsis-vertical {
+    justify-content: end;
+}
+.izquierda{
+    display: flex;
+    justify-content: start;
+}
+.fa-solid fa-bookmark{
+    justify-content: end;
+}
